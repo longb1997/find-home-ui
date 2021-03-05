@@ -1,3 +1,3 @@
-const { StyleSheet } = require('react-native');
+// const { StyleSheet } = require('react-native');
 
-const styles = StyleSheet.create({});
+// const styles = StyleSheet.create({});

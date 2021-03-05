@@ -17,6 +17,6 @@ const images = {
   searchHome: require('../icons/searchHome.png'),
   setting2: require('../icons/setting2.png'),
   settingSearch: require('../icons/settingSearch.png'),
-  settings1: require('../icons/settings1.png')
-}
+  settings1: require('../icons/settings1.png'),
+};
 export default images;

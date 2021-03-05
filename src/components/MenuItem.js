@@ -1,6 +1,6 @@
 import React from 'react';
 import { Pressable } from 'react-native';
-import { Image, Animated } from 'react-native';
+import { Image } from 'react-native';
 import { StyleSheet, Text, View } from 'react-native';
 import { FONT_SIZE } from 'src/config/typography';
 
