@@ -41,8 +41,7 @@ const styles = StyleSheet.create({
     marginRight: 16,
   },
   itemContainer: {
-    width: 60,
-    height: 60,
+    width: 70,
     alignItems: 'center',
     marginHorizontal: 16,
     marginTop: 22,
@@ -52,5 +51,6 @@ const styles = StyleSheet.create({
     paddingTop: 16,
     fontSize: FONT_SIZE.MEDIUM,
     color: '#FFF',
+    fontWeight: '700',
   },
 });

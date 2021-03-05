@@ -27,8 +27,7 @@ function MainStack() {
         name="detail"
         component={DetailPost}
         options={{
-          headerShown: true,
-          title: 'Detail',
+          headerShown: false,
         }}
       />
     </Stack.Navigator>

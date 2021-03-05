@@ -7,6 +7,7 @@ const images = {
   Noti: require('../icons/Noti.png'),
   StarFill: require('../icons/StarFill.png'),
   StarUnfill: require('../icons/StarUnfill.png'),
+  back_arrow: require('../icons/back-arrow.png'),
   bath: require('../icons/bath.png'),
   bed: require('../icons/bed.png'),
   downarrow: require('../icons/downarrow.png'),
@@ -17,6 +18,6 @@ const images = {
   searchHome: require('../icons/searchHome.png'),
   setting2: require('../icons/setting2.png'),
   settingSearch: require('../icons/settingSearch.png'),
-  settings1: require('../icons/settings1.png'),
-};
+  settings1: require('../icons/settings1.png')
+}
 export default images;

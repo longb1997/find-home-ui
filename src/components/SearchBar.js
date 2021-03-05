@@ -16,6 +16,7 @@ const SearchBar = () => {
           onChangeText={(text) => onChangeText(text)}
           style={styles.input}
           placeholder="What are you looking for?"
+          placeholderTextColor={'rgba(19, 73, 123, 0.6)'}
         />
         <Image source={images.settingSearch} />
       </View>
