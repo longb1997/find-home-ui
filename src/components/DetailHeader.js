@@ -1,3 +1,4 @@
+import { NavigationService } from '@navigation/refNavigation';
 import images from '@resources/icons';
 import React from 'react';
 import { Pressable } from 'react-native';
@@ -8,7 +9,7 @@ import { FONT_SIZE } from 'src/config/typography';
 const DetailHeader = ({ status = 'Available' }) => {
   return (
     <View style={styles.header}>
-      <Pressable style={styles.back}>
+      <Pressable onPress={() => NavigationService.goBack()} style={styles.back}>
         <Image source={images.back_arrow} />
       </Pressable>
       <View style={styles.status}>

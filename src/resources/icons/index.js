@@ -10,14 +10,22 @@ const images = {
   back_arrow: require('../icons/back-arrow.png'),
   bath: require('../icons/bath.png'),
   bed: require('../icons/bed.png'),
+  big_bath: require('../icons/big-bath.png'),
+  big_bed: require('../icons/big-bed.png'),
+  big_dish: require('../icons/big-dish.png'),
+  comment: require('../icons/comment.png'),
+  dot: require('../icons/dot.png'),
   downarrow: require('../icons/downarrow.png'),
   heart: require('../icons/heart.png'),
+  infomation: require('../icons/infomation.png'),
   leftarrow: require('../icons/leftarrow.png'),
   loginBackground: require('../icons/loginBackground.png'),
+  offer: require('../icons/offer.png'),
   plate: require('../icons/plate.png'),
   searchHome: require('../icons/searchHome.png'),
   setting2: require('../icons/setting2.png'),
   settingSearch: require('../icons/settingSearch.png'),
-  settings1: require('../icons/settings1.png')
-}
+  settings1: require('../icons/settings1.png'),
+  shared: require('../icons/shared.png'),
+};
 export default images;
